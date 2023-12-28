@@ -20,7 +20,7 @@ function timeToString(time) {
     return `${formattedMM}:${formattedSS}:${formattedMS}`;
   }
   
-  // Declare variables to use in our functions below
+  // Declare variables to use in functions below
   
   let startTime;
   let elapsedTime = 0;
